@@ -1,4 +1,1 @@
-This is the README file for the Hello-world project.
-hi
-hello
-hihi
+This is a README. Nothing actually here to read, sorry.
